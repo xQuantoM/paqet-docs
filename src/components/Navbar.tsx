@@ -28,7 +28,7 @@ export function Navbar() {
             </div>
           </div>
           <a
-            href="https://github.com"
+            href="https://github.com/xQuantoM/paqet-docs"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2 text-sm text-text-muted hover:text-text transition-colors"
